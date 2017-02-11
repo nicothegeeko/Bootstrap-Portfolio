@@ -1,0 +1,136 @@
+body {background-image:url(assets/images/tree_bark.png);}
+
+
+.navbar-header {
+    background-color: #4aaaa5;
+    color: #feffff;
+    width: 250px;
+    height: 75px;
+    border: 5px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding-top: 20px;
+    overflow: auto;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+img {padding-left: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+float: left;}
+
+.navbar-header {font-color:;
+font-size: 20px;
+text-align: center;}
+
+h1 {color: #feffff;}
+
+p {padding: 2%;}  
+
+.navbar-header {color: #feffff;}
+
+.pages 
+
+.panel-custom {
+  position: relative;
+  clear:both;
+  padding-top:20px;
+} 
+
+.floating-away {width: 22%;
+                height: 10%;
+                margin-left: 8%;}
+
+/*contact page*/
+
+form {width: 80%;
+padding-left: 10%;}
+
+button {color: #feffff;
+ background-color: #4aaaa5;}
+
+ /*portfolio page*/
+
+ #port-images {overflow: auto;}
+
+.module1 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-2.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+h3 {position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+  bottom: 10px;
+  left: 0px;
+  background: #4aaaa5;
+  padding: 4px 8px;
+  color: white;
+  margin: 0;
+  font: 28px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.module2 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-5.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module3 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  clear: both;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-1.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module4 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-9.jpg);
+  background-size: cover;
+  position: relative;}
+
+  .module5 {
+  margin-left: 50px;
+  margin-right:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 230px;
+  height: 170px;
+  clear: both;
+  float: left;
+  background: url(http://lorempixel.com/output/abstract-q-c-640-480-10.jpg);
+  background-size: cover;
+  position: relative;}
+
+            
