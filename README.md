@@ -1,7 +1,7 @@
 # HW Bootstrap-Portfolio
 
 Live Link
-* https://nicothegeko.github.io/Boostrap-Portfolio
+* https://nicothegeeko.github.io/Boostrap-Portfolio
 
 Move around web brower and click to check out different parts of the portfolio.
 
